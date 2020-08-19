@@ -50,6 +50,7 @@ router.post(
     const {
       company,
       website,
+      location,
       bio,
       skills,
       status,
